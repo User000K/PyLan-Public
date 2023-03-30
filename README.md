@@ -1,6 +1,6 @@
 # PyLan-Public
 ------------------------------------------------
 ### Latest Setup
-<p>You may go to releases and search for the PyLan-Setup or use this link[https://github.com/User000K/PyLan-Public/releases/tag/setup] to get there
+<p>This link will go to the download page for the setup https://github.com/User000K/PyLan-Public/releases/tag/setup
 Alternatively you many download this repository and manually setup PyLan</p>
 ------------------------------------------------
